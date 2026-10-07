@@ -1,0 +1,6 @@
+{
+  "name": "Stitch Web App Studio",
+  "description": "Interactive web app runner, inspector, and development workspace for Google Stitch projects, with live preview, design system tokens, code editing, and instant ZIP import.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
